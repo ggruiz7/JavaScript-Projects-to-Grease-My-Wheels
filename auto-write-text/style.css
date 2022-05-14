@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Tangerine", serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}

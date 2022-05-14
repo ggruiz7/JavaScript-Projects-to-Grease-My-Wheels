@@ -12,4 +12,4 @@ const writeText = () => {
   }
 };
 
-setInterval(writeText, 1000);
+setInterval(writeText, 200);
